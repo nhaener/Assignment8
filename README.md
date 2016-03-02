@@ -46,21 +46,12 @@ The following resources may be helpful for getting started with your project. As
 -   Shinyapps.io [hosting site](https://www.shinyapps.io/)
 -   Plotly + shiny [examples](https://plot.ly/r/shiny-tutorial/)
 
-Set-up
-------
-
-As in assignment 7, in this assignment, you'll initialize your own repository (**do not** fork this one). You can easily create a repository through the GitHub interface:
-
-![new-repo](imgs/new-repo.png)
-
-Once you've created your repository, you should create the necessary files (`ui.R`, `server.R`, and `Readme.md` to begin your project).
 
 Iris Dataset
 ------------
 
 For this assignment, you'll be using the `iris` dataset, a simple dataset that is built into R. This dataset is often used to demonstrate the challenges of classification in statistics and visualization. Each of the 150 rows of this data is an observation of a flower, and the columns express different physical qualities of the flowers:
 
-![new-repo](imgs/dataset.png)
 
 Building the application
 ------------------------
@@ -82,18 +73,18 @@ Before submitting your assignment, please create a `Readme.md` file **in your re
 
 ##### 1. Did you receive any help from others (classmates, etc)? If so, please list who.
 
-> Answer goes here!
+> No
 
 ##### 2. Approximately how many hours did it take you to complete this challenge?
 
-> Answer goes here!
+>4
 
 ##### 3. On a scale of 1 (too easy) to 10 (too challenging), how difficult was this challenge?
 
-> Answer goes here!
+> 7
 
 ##### 4. Did you encounter any problems in this challenge we should warn students about in the future? How can we make the challenge better?
 
-> Answer goes here!
+> I really enjoyed this assignment, it was not only challenging but also very fun. I would not recommend changing anything.
 
 Please submit this GitHub repository to <a href="https://canvas.uw.edu/courses/1023398/assignments/3079013" target="_blank">Canvas</a> as your assignment, and thanks for your hard work!
