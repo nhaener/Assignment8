@@ -1,5 +1,5 @@
 
-The Link to my shinyapps.io page can be found [here](https://nickhaener.shinyapps.io/assignment8/)
+The Link to my shinyapps.io page can be found <a href="https://nickhaener.shinyapps.io/assignment8/" target="_blank">here</a>
 The full url is: https://nickhaener.shinyapps.io/assignment8/
 
 Submission
